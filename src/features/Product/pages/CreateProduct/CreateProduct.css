@@ -1,0 +1,16 @@
+.prodct-add-label {
+  font-size: 1.9rem;
+  margin-bottom: 10px;
+}
+
+.show-product-image {
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  background: rgba(204, 204, 204, 0.109);
+}
+
+.error-block {
+  display: flex;
+  justify-content: center;
+}

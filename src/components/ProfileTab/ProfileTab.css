@@ -1,0 +1,26 @@
+.profileTab {
+  width: 100%;
+  padding-top: 5px;
+  margin-bottom: 22px;
+  background-color: white;
+}
+
+.profileTab__title {
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--border-color);
+
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.profileTab__item {
+  padding: 16px 24px;
+  border-bottom: 1px solid rgb(240, 240, 240);
+
+  font-size: 1.5rem;
+}
+
+.profileTab__item-name {
+  display: inline-block;
+  width: 300px;
+}

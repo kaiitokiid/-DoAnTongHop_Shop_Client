@@ -1,0 +1,31 @@
+.title-2 {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+
+  border-bottom: 2px solid var(--border-color);
+
+  font-size: 3.8rem;
+  font-weight: 500;
+}
+
+.user-profile-image {
+  display: block;
+  margin: auto;
+  width: 300px;
+}
+
+.user-profile__btn-change-image {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.user-profile__btn-change-info {
+  height: 40px;
+}
+
+.user-profile__btn {
+  position: relative;
+  top: 15px;
+  left: 150px;
+}

@@ -1,0 +1,19 @@
+.order-detail {
+  margin-bottom: 500px;
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+.status {
+  margin-bottom: 10px;
+
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.order-detail__mes {
+  text-align: center;
+  margin-top: 10px;
+}

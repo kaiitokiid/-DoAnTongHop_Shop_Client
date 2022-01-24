@@ -1,0 +1,27 @@
+.register-page {
+  padding: 25px 0 50px;
+}
+
+.form-message__server {
+  font-size: 1.4rem;
+  line-height: 1.6rem;
+  padding: 4px 0 0;
+  font-weight: 500;
+}
+
+.form-message--error {
+  color: red;
+}
+
+.form-message--success {
+  color: var(--primary-color);
+}
+
+.font-2 {
+  font-size: 2rem !important;
+}
+
+.industry-regis {
+  max-height: 100x;
+  overflow-y: scroll;
+}

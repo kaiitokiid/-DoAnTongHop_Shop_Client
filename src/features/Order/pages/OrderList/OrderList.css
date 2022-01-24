@@ -1,0 +1,36 @@
+.order-list-padding {
+  padding: 20px 16px !important;
+}
+
+.label {
+  display: inline-block;
+  padding: 8px;
+
+  font-weight: 600;
+  color: white;
+  border-radius: 4px;
+}
+
+.label.label-danger {
+  background-color: rgb(220, 53, 69);
+}
+
+.label.label-warning {
+  background-color: rgb(240, 173, 78);
+}
+
+.label.label-success {
+  background-color: rgb(92, 184, 92);
+}
+
+.label.label-info {
+  background-color: rgb(23, 162, 184);
+}
+
+.label.label-primary {
+  background-color: rgb(0, 123, 255);
+}
+
+.text-center {
+  text-align: center !important;
+}

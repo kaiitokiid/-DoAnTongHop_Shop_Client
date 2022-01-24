@@ -1,0 +1,9 @@
+.headerLogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 64px;
+
+  background-color: var(--primary-color);
+}
